@@ -12,5 +12,4 @@ void main()
   }
   else
   printf("zero");
-getch();
 }
