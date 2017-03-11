@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 void main()
 {
 int y,x,t,s,k;
@@ -13,6 +13,6 @@ for(s=1;s<y;s++)
         t=t/10;
     }
     if(x==y)
-        printf("%d",s);
+        printf("%d ",s);
 }
 }
